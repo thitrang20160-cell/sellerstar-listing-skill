@@ -1,0 +1,4 @@
+interface:
+  display_name: "塞星 AI 铺货"
+  short_description: "调用塞星 AI 铺货完成采集、SOP、暂存审核与沃尔玛逐 SKU 回执核验"
+  default_prompt: "用 $sellerstar-listing 查看我指定的商品和店铺，核对铺货阶段、可执行范围和实际回执。"
